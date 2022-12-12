@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nsdhanush
 - 👀 I’m interested in ...data science projects
-- 🌱 I’m currently learning ... python3 
+- 🌱 I’m currently learning ... advanced SQL and PL/SQL 
 - 💞️ I’m looking to collaborate on ... data science projects
 - 📫 How to reach me ... dhanushnama3@gmail.com
 
